@@ -1,0 +1,6 @@
+irods:///iplant/home/shared/digbio/fastqc_test/gvcf_pegasustest/20140515-202823-mergeGVCF.vcf
+irods:///iplant/home/shared/digbio/fastqc_test/gvcf_pegasustest/20140515-202823-mergeGVCF.vcf.idx
+irods:///iplant/home/shared/digbio/fastqc_test/gvcf_pegasustest/20140519-181157-mergeGVCF.vcf
+irods:///iplant/home/shared/digbio/fastqc_test/gvcf_pegasustest/20140519-181157-mergeGVCF.vcf.idx
+irods:///iplant/home/shared/digbio/fastqc_test/gvcf_pegasustest/20140710-070907-mergeGVCF.vcf
+irods:///iplant/home/shared/digbio/fastqc_test/gvcf_pegasustest/20140710-070907-mergeGVCF.vcf.idx

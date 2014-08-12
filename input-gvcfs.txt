@@ -1,0 +1,6 @@
+irods:///iplant/home/shared/digbio/Pegasus_GATK_Results/Output_DIR/kateyliu/wf-20140515-202823/20140515-202823-mergeGVCF.vcf
+irods:///iplant/home/shared/digbio/Pegasus_GATK_Results/Output_DIR/kateyliu/wf-20140515-202823/20140515-202823-mergeGVCF.vcf.idx
+irods:///iplant/home/shared/digbio/Pegasus_GATK_Results/Output_DIR/kateyliu/wf-20140710-070907/20140710-070907-mergeGVCF.vcf
+irods:///iplant/home/shared/digbio/Pegasus_GATK_Results/Output_DIR/kateyliu/wf-20140710-070907/20140710-070907-mergeGVCF.vcf.idx
+irods:///iplant/home/shared/digbio/Pegasus_GATK_Results/Output_DIR/kateyliu/wf-20140519-181157/20140519-181157-mergeGVCF.vcf
+irods:///iplant/home/shared/digbio/Pegasus_GATK_Results/Output_DIR/kateyliu/wf-20140519-181157/20140519-181157-mergeGVCF.vcf.idx
